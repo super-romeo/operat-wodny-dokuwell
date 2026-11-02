@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://operat-wodny.dokufolio.com/sitemap.xml
